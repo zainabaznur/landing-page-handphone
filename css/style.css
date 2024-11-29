@@ -1082,3 +1082,15 @@ ul.social_icon li a:hover {
 
 /** end laptop **/
 
+.profile-pic {
+     width: 100px;
+     height: 100px;
+     border-radius: 50%;
+     margin-bottom: 10px;
+     object-fit: cover;
+  }
+  .text-center {
+     text-align: center;
+     margin-top: 20px;
+  }
+  
